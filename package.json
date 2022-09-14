@@ -2,7 +2,7 @@
   "name": "sticky-note-app-finished",
   "version": "1.0.0",
   "description": "",
-  "homepage": "<https://julie805.github.io/sticky-notes>",
+  "homepage": "https://julie805.github.io/sticky-notes",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
