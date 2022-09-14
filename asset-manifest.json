@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://julie805.github.io/sticky-notes%3E/static/css/main.96299d26.css",
+    "main.js": "/%3Chttps://julie805.github.io/sticky-notes%3E/static/js/main.b837e9bc.js",
+    "index.html": "/%3Chttps://julie805.github.io/sticky-notes%3E/index.html",
+    "main.96299d26.css.map": "/%3Chttps://julie805.github.io/sticky-notes%3E/static/css/main.96299d26.css.map",
+    "main.b837e9bc.js.map": "/%3Chttps://julie805.github.io/sticky-notes%3E/static/js/main.b837e9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96299d26.css",
+    "static/js/main.b837e9bc.js"
+  ]
+}
